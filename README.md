@@ -1,2 +1,1 @@
-# mysql-master-slave-replication
-MySQL Master-Slave Replication
+# MySQL Master-Slave Replication
